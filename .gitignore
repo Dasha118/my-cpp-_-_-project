@@ -3,7 +3,6 @@ build/
 *.o
 *.a
 *.so
-42
 *.dll
 *.exe
 
@@ -12,3 +11,5 @@ build/
 
 .DS_Store
 Thumbs.db
+build2/
+src/program.cppaaa/
